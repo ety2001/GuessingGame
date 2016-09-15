@@ -25,7 +25,7 @@ main(){
 	
 
 	// Continues until player gets a correct answer and ends the game
-	while(pla:y == true){
+	while(play == true){
 		
 		// Inputs the guess and outputs number of guesses used so far
 		cout << "What is your guess?\n";
